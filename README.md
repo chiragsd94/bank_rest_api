@@ -1,13 +1,22 @@
 ## ⚠️ Disclaimer
+⚠️ Disclaimer
+This project is developed strictly for educational purposes to showcase my skills in building RESTful APIs using Python and Flask. It is intended to serve as a portfolio demonstration for potential employers.
 
-This project was developed **purely for educational purposes** to demonstrate my skills in building RESTful APIs using Flask, Flask-Smorest, and related technologies.
-
-I am **not responsible or liable** for:
-
+I, the author, am **not liable or responsible** for:
+- Any financial loss, damages, or legal issues resulting from the use or misuse of this code.
+- Any unauthorized deployment, distribution, or application of this code in production environments.
+- Any misuse of this project in ways not intended by its original purpose.
+- Any copyright, intellectual property, or license issues.
+- Any security, performance, or compliance risks introduced by this code.
 - Any financial loss,
 - Misuse or unauthorized deployment of this code,
 - Legal complications resulting from how this code is used,
 - Security vulnerabilities if this project is used in production environments without proper auditing.
+
+
+🔓 This repository is made public solely to demonstrate backend development skills. It is not production-ready. Use at your own risk. No warranties or guarantees are provided.
+
+This project was developed **purely for educational purposes** to demonstrate my skills in building RESTful APIs using Flask, Flask-Smorest, and related technologies.
 
 This API is **not production-ready** and has not undergone security, performance, or compliance checks necessary for real-world banking applications. It was built to showcase backend design skills and application structure to **potential employers only**.
 
@@ -143,15 +152,24 @@ GET /api/v1/loans/ledger: Details of payment and loans(requires authentication).
 
 
 ## ⚠️ Disclaimer
+⚠️ Disclaimer
+This project is developed strictly for educational purposes to showcase my skills in building RESTful APIs using Python and Flask. It is intended to serve as a portfolio demonstration for potential employers.
 
-This project was developed **purely for educational purposes** to demonstrate my skills in building RESTful APIs using Flask, Flask-Smorest, and related technologies.
-
-I am **not responsible or liable** for:
-
+I, the author, am **not liable or responsible** for:
+- Any financial loss, damages, or legal issues resulting from the use or misuse of this code.
+- Any unauthorized deployment, distribution, or application of this code in production environments.
+- Any misuse of this project in ways not intended by its original purpose.
+- Any copyright, intellectual property, or license issues.
+- Any security, performance, or compliance risks introduced by this code.
 - Any financial loss,
 - Misuse or unauthorized deployment of this code,
 - Legal complications resulting from how this code is used,
 - Security vulnerabilities if this project is used in production environments without proper auditing.
+
+
+🔓 This repository is made public solely to demonstrate backend development skills. It is not production-ready. Use at your own risk. No warranties or guarantees are provided.
+
+This project was developed **purely for educational purposes** to demonstrate my skills in building RESTful APIs using Flask, Flask-Smorest, and related technologies.
 
 This API is **not production-ready** and has not undergone security, performance, or compliance checks necessary for real-world banking applications. It was built to showcase backend design skills and application structure to **potential employers only**.
 
@@ -164,15 +182,24 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 
 ## ⚠️ Disclaimer
+⚠️ Disclaimer
+This project is developed strictly for educational purposes to showcase my skills in building RESTful APIs using Python and Flask. It is intended to serve as a portfolio demonstration for potential employers.
 
-This project was developed **purely for educational purposes** to demonstrate my skills in building RESTful APIs using Flask, Flask-Smorest, and related technologies.
-
-I am **not responsible or liable** for:
-
+I, the author, am **not liable or responsible** for:
+- Any financial loss, damages, or legal issues resulting from the use or misuse of this code.
+- Any unauthorized deployment, distribution, or application of this code in production environments.
+- Any misuse of this project in ways not intended by its original purpose.
+- Any copyright, intellectual property, or license issues.
+- Any security, performance, or compliance risks introduced by this code.
 - Any financial loss,
 - Misuse or unauthorized deployment of this code,
 - Legal complications resulting from how this code is used,
 - Security vulnerabilities if this project is used in production environments without proper auditing.
+
+
+🔓 This repository is made public solely to demonstrate backend development skills. It is not production-ready. Use at your own risk. No warranties or guarantees are provided.
+
+This project was developed **purely for educational purposes** to demonstrate my skills in building RESTful APIs using Flask, Flask-Smorest, and related technologies.
 
 This API is **not production-ready** and has not undergone security, performance, or compliance checks necessary for real-world banking applications. It was built to showcase backend design skills and application structure to **potential employers only**.
 

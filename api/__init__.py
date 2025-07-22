@@ -10,6 +10,7 @@ from api.extension import cors,jwt
 from api.models.RevokedToken import RevokedToken
 from api.resources.loan import blp as LoanBlueprint
 from api.resources.users import blp as UserBlueprint 
+from api.resources.about import blp as AboutBlueprint
 
 
 load_dotenv()
@@ -87,4 +88,5 @@ def create_app():
 
     api.register_blueprint(LoanBlueprint,url_prefix="/api/v1/loans")
     api.register_blueprint(UserBlueprint,url_prefix="/api/v1/users")
+    api.register_blueprint(AboutBlueprint,url_prefix="/api/v1/about")
     return app
